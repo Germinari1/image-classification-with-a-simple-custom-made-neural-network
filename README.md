@@ -1,0 +1,2 @@
+# image-classification-with-a-simple-custom-made-neural-network
+This notebook uses a simple custom implementation of a neural network to classify cat images. In its current state, the model is rather simple and there is a lot of room for improvement. This fact is the motivator of future notebooks already in creation process, which employ more advanced techniques such as mini-batch gradient descent, adam, etc
